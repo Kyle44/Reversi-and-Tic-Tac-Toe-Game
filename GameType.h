@@ -1,4 +1,4 @@
-// File: GridGame.h
+// File: GameType.h
 
 #ifndef GAMETYPE_H
 #define GAMETYPE_H
